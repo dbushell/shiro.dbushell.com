@@ -7,4 +7,4 @@ An old responsive grid demo from 2012.
 
 * * *
 
-Copyright © [David Bushell](http://dbushell.com) | [@dbushell](http://twitter.com/dbushell)
+Copyright © [David Bushell](http://dbushell.com)
